@@ -5,7 +5,7 @@
 
 ### Tests passed
 
-- [x] ✅ Repositories should be able to create a new repository
+- ✅ Repositories should be able to create a new repository
 - [x] ✅ Repositories should be able to list the repositories
 - [x] ✅ Repositories should be able to update repository
 - [x] ✅ Repositories should not be able to update a repository that does not exist
