@@ -12,3 +12,9 @@
  ✅ Repositories should not be able to update repository likes manually
  ✅ Repositories should be able to delete the repository
  ✅ Repositories should not be able to delete a repository that does not exist
+
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
